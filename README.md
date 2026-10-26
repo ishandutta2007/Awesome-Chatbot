@@ -8,6 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Chatbot/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Chatbot?style=social&color=white" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Chatbot/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Chatbot/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 # 🤖 Awesome Chatbot: The Definitive Conversational AI Directory
@@ -22,6 +23,8 @@
 - [🔓 Top Open-Source Chatbot & Conversational AI Frameworks](#-top-open-source-chatbot--conversational-ai-frameworks)
 - [💡 How to Choose: SaaS vs. Open-Source](#-how-to-choose-saas-vs-open-source)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [📜 License](#-license)
 
 ---
@@ -144,6 +147,22 @@ Contributions to **Awesome Chatbot** are always encouraged! 🌟
 4. 💾 Commit your changes (`git commit -m "feat: add NewChatbot to directory"`).
 5. 🚀 Push to the branch (`git push origin feature/new-chatbot-entry`).
 6. 📬 Open a **Pull Request**.
+
+---
+
+## 💖 Support
+
+A huge thank you to everyone exploring, building with, and contributing to **Awesome Chatbot**! 🙏
+
+If you find this repository valuable, here are a few great ways to support the project:
+- ⭐ **Star** this repository to help others discover it.
+- 🍴 **Fork** and share it with your network or AI community.
+- ☕ **Buy me a coffee**: Support ongoing maintenance, research, and curation directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Chatbot&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Chatbot&type=date&legend=top-left)
 
 ---
 
