@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Chatbot/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Chatbot?style=social&color=white" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Chatbot/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Chatbot?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Chatbot/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Chatbot?style=social&color=white" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Chatbot/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Chatbot/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -54,57 +54,57 @@ The table below catalogs leading commercial chatbot vendors, sorted in descendin
 
 ## 🔓 Top Open-Source Chatbot & Conversational AI Frameworks
 
-Curated open-source repositories and LLM frameworks for building sovereign dialog systems, sorted in descending order by **GitHub Star Count**.
+Curated open-source repositories and LLM frameworks for building sovereign dialog systems, sorted in descending order by **GitHub Stars_Count**.
 
-1. **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)
+1. **[Dify](https://github.com/langgenius/dify)** [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)
    - 🌟 *An open-source LLM application development platform.* Orchestrates agentic workflows, conversational assistants, RAG pipelines, and model evaluation with an intuitive visual studio interface.
    - 🛠️ **Stack:** Python, TypeScript, Next.js, Celery, PostgreSQL, Redis
 
-2. **[Open WebUI](https://github.com/open-webui/open-webui)** [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)
+2. **[Open WebUI](https://github.com/open-webui/open-webui)** [![GitHub_Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)
    - 🌟 *Extensible, self-hosted AI chat interface.* Designed for complete offline and local conversational experiences with Ollama, OpenAI-compatible APIs, RAG, Web search, and role-based access control.
    - 🛠️ **Stack:** Python, Svelte, Ollama, Docker
 
-3. **[LangChain](https://github.com/langchain-ai/langchain)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)
+3. **[LangChain](https://github.com/langchain-ai/langchain)** [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)
    - 🌟 *The premier framework for building context-aware reasoning applications and chatbots.* Connects LLMs with external data sources, memory chains, tool execution, and complex multi-agent graphs (LangGraph).
    - 🛠️ **Stack:** Python, LangSmith, LCEL
 
-4. **[Lobe Chat](https://github.com/lobehub/lobe-chat)** [![GitHub stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social&color=white)](https://github.com/lobehub/lobe-chat/stargazers)
+4. **[Lobe Chat](https://github.com/lobehub/lobe-chat)** [![GitHub_Stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social&color=white)](https://github.com/lobehub/lobe-chat/stargazers)
    - 🌟 *Modern-design open-source ChatGPT/LLMs UI and agent framework.* Features speech synthesis, multimodal vision models, agent plugin market, and multi-provider AI switches.
    - 🛠️ **Stack:** TypeScript, Next.js, WebRTC, PWA
 
-5. **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)
+5. **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub_Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)
    - 🌟 *Drag & drop visual UI to build customized LLM flows.* Construct customer support bots, memory chains, vector store indexing, and interactive conversational logic without deep boilerplate code.
    - 🛠️ **Stack:** TypeScript, Node.js, LangChain.js, React
 
-6. **[LlamaIndex](https://github.com/run-llama/llama_index)** [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)
+6. **[LlamaIndex](https://github.com/run-llama/llama_index)** [![GitHub_Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)
    - 🌟 *Data framework for LLM-based knowledge agents and conversational search.* Ingests private databases, PDFs, and APIs into queryable vector indices and agentic chatbot workflows.
    - 🛠️ **Stack:** Python, TypeScript, Vector Stores
 
-7. **[Coqui TTS](https://github.com/coqui-ai/TTS)** [![GitHub stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers)
+7. **[Coqui TTS](https://github.com/coqui-ai/TTS)** [![GitHub_Stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers)
    - 🌟 *Deep learning toolkit for Text-to-Speech and voice conversational agents.* Powers natural, low-latency synthetic voice responses in speech-driven conversational bots and IVR setups.
    - 🛠️ **Stack:** Python, PyTorch, CUDA
 
-8. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
+8. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
    - 🌟 *Open-source customer engagement suite and Intercom alternative.* Integrates live chat widgets, WhatsApp, Facebook, email, and connects upstream bot webhooks with human agent fallback.
    - 🛠️ **Stack:** Ruby on Rails, Vue.js, PostgreSQL, Redis
 
-9. **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)
+9. **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub_Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)
    - 🌟 *End-to-end LLM orchestration framework.* Modular pipelines for retrieval-augmented generation (RAG), conversational search agents, and production dialog systems.
    - 🛠️ **Stack:** Python, Elasticsearch, OpenSearch, PyTorch
 
-10. **[Rasa](https://github.com/RasaHQ/rasa)** [![GitHub stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)
+10. **[Rasa](https://github.com/RasaHQ/rasa)** [![GitHub_Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)
     - 🌟 *Enterprise-grade conversational AI platform with CALM (Conversational AI with Language Models).* Combines generative LLMs with deterministic enterprise business logic and guardrails.
     - 🛠️ **Stack:** Python, TensorFlow/PyTorch, Rasa Pro
 
-11. **[Botpress](https://github.com/botpress/botpress)** [![GitHub stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)
+11. **[Botpress](https://github.com/botpress/botpress)** [![GitHub_Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)
     - 🌟 *Developer infrastructure for next-gen chatbots powered by OpenAI and LLMs.* Features a visual flow builder, code executions, knowledge base connectors, and autonomous action loops.
     - 🛠️ **Stack:** TypeScript, Node.js, React
 
-12. **[ChatterBot](https://github.com/gunthercox/ChatterBot)** [![GitHub stars](https://img.shields.io/github/stars/gunthercox/ChatterBot?style=social&color=white)](https://github.com/gunthercox/ChatterBot/stargazers)
+12. **[ChatterBot](https://github.com/gunthercox/ChatterBot)** [![GitHub_Stars](https://img.shields.io/github/stars/gunthercox/ChatterBot?style=social&color=white)](https://github.com/gunthercox/ChatterBot/stargazers)
     - 🌟 *Machine-learning, conversational dialog engine.* Delivers rule-based and statistical sequence matching for language training and automated response generation.
     - 🛠️ **Stack:** Python, SQLite, spaCy
 
-13. **[Microsoft Bot Framework SDK](https://github.com/microsoft/botframework-sdk)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/botframework-sdk?style=social&color=white)](https://github.com/microsoft/botframework-sdk/stargazers)
+13. **[Microsoft Bot Framework SDK](https://github.com/microsoft/botframework-sdk)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/botframework-sdk?style=social&color=white)](https://github.com/microsoft/botframework-sdk/stargazers)
     - 🌟 *Comprehensive SDK for enterprise multi-channel conversational bots.* Seamlessly deploys conversational experiences across Microsoft Teams, Slack, Web, and Skype.
     - 🛠️ **Stack:** C#, TypeScript, Python, Azure Bot Service
 
