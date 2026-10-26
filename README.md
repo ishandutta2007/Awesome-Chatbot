@@ -54,7 +54,7 @@ The table below catalogs leading commercial chatbot vendors, sorted in descendin
 
 ## 🔓 Top Open-Source Chatbot & Conversational AI Frameworks
 
-Curated open-source repositories and LLM frameworks for building sovereign dialog systems, sorted in descending order by **GitHub Stars_Count**.
+Curated open-source repositories and LLM frameworks for building sovereign dialog systems, sorted in descending order by **GitHub_Stars_Count**.
 
 1. **[Dify](https://github.com/langgenius/dify)** [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)
    - 🌟 *An open-source LLM application development platform.* Orchestrates agentic workflows, conversational assistants, RAG pipelines, and model evaluation with an intuitive visual studio interface.
